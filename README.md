@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Hi, I'm Ahmed Daniyal  
+### Full-Stack JavaScript Developer (MERN/MEAN) | Real-Time Systems | TypeScript | Node.js | React
 
-<!--
-**ahmeddaniyal98/ahmeddaniyal98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 I’m a Full-Stack Developer with 5+ years of experience building  
+**scalable backend systems, real-time apps, admin dashboards, and mobile-ready APIs.**
 
-Here are some ideas to get you started:
+I specialize in:
+- 🚀 Full-Stack JavaScript (Node.js, Express, React, Angular, TypeScript)
+- 📡 Real-time chat & notifications (WebSockets, Socket.io)
+- 📞 Twilio (SMS, OTP, calling)  
+- 🎥 Agora (audio/video calling integrations)
+- 🧘 numente.io – Meditation App backend + Admin Panel  
+- 🤝 muslimbusinessorganisation.co.uk – Community, Chat, Moderation, Business Listings  
+- 🎨 TailwindCSS for pixel-perfect UI  
+- 🛢 MongoDB, PostgreSQL  
+- ☁️ Firebase, AWS  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Work
+
+### 🧘 **Numente – Meditation & Wellness Platform**
+- Built complete backend for mobile app (Node.js, MongoDB)  
+- Developed **Admin Panel** in React + Tailwind  
+- Integrated **Twilio calling**, **Agora video/audio**, **appointment scheduling**
+
+### 🤝 **Muslim Business Organisation**
+- Real-time community chat using WebSockets  
+- Moderation rules, permissions, and role management  
+- Firebase push notifications  
+- Business listing approval workflow  
+
+---
+
+## 🛠 Tech Stack
+**Languages:** JavaScript, TypeScript  
+**Frontend:** React, Angular, TailwindCSS  
+**Backend:** Node.js, Express.js  
+**Databases:** MongoDB, PostgreSQL  
+**Real-time:** WebSockets, Socket.io  
+**Integrations:** Twilio, Agora  
+**DevOps:** Docker, Nginx, PM2  
+**Cloud:** Firebase, AWS  
+
+---
+
+## 📈 GitHub Stats
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmeddaniyal98&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeddaniyal98&layout=compact&theme=radical)
+
+---
+
+## 🤝 Let’s Connect!
+📧 Email: your-email-here  
+🌐 Portfolio: your-portfolio-link  
