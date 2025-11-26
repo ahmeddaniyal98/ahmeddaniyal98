@@ -45,11 +45,17 @@ I specialize in:
 ---
 
 ## 📈 GitHub Stats
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmeddaniyal98&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeddaniyal98&layout=compact&theme=radical)
+
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmeddaniyal98&show_icons=true&theme=tokyonight&hide_border=true)
+
+## 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmeddaniyal98&theme=tokyonight&hide_border=true)
+
+## 🧠 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeddaniyal98&layout=compact&theme=tokyonight&hide_border=true)
+
 
 ---
 
 ## 🤝 Let’s Connect!
-📧 Email: your-email-here  
-🌐 Portfolio: your-portfolio-link  
+📧 Email: ahmeddaniyal1998@gmail.com 
