@@ -47,8 +47,6 @@ I specialize in:
 ## 📈 GitHub Stats
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmeddaniyal98&theme=tokyonight)
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=ahmeddaniyal98&show_icons=true&theme=tokyonight&hide_border=true)
-
 
 
 ---
